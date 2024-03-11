@@ -43,9 +43,10 @@ Description: In this milestone, we enhance the search engine to support multi-to
 1. Clone the repository to your local machine.
 2. Create a virtual environment and activate it.
 3. ```pip install -r requirements.txt```
-4. Navigate to the v2 folder in the milestone2 folder.
-5. Open the backend folder
-6. Run ```python console_main.py```
+4. ```python -m spacy download en_core_web_sm```
+5. Navigate to the v2 folder in the milestone2 folder.
+6. Open the backend folder
+7. Run ```python console_main.py```
 
 #### GUI
 1. Clone the repository to your local machine.
